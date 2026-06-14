@@ -1,0 +1,15 @@
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.tfrecord
+*.zip
+*.tar
+*.h5
+
+openvla-runs/
+tensorflow_datasets/
+raccoon_dataset/
+
+__pycache__/
+*.pyc
